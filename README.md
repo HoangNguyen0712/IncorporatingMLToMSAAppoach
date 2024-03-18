@@ -6,7 +6,7 @@ This code package is develeloped for constructing the seismic fragility analysis
 
 Developed by Hoang D. Nguyen (nguyenhoangkt712@unist.ac.kr), Chanyoung Kim, Young-Joo Lee, and Myoungsu Shin. 
 
-Ulsan National Institute of Science and Technology (UNIST), South Korea.
+Institution: Ulsan National Institute of Science and Technology (UNIST), South Korea.
 
 # Reference
 
