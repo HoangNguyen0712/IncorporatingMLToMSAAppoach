@@ -1,17 +1,17 @@
 # Software introduction
-This code package is develeloped for constructing the seismic fragility analyis of RC wall structures. 
+This code package is develeloped for constructing the seismic fragility analysis of reinforced concrete wall structures. 
 
 # Developers
-Developed by Hoang D. Nguyen (nguyenhoangkt712@unist.ac.kr)
+Developed by Hoang D. Nguyen (nguyenhoangkt712@unist.ac.kr), Chanyoung Kim, Young-Joo Lee, and Myoungsu Shin 
 UNIST, South Korea
 
 # Reference
-Incopration of machine learning models to multilple stripe analysis of RC wall structures
+Incopration of machine learning models to multilple stripe analysis of RC wall structures (Preparaton)
 
 # Required software and libraries
 Python 3.8 with Numpy version '1.24.3', and pickle
 
-# Step to use the package
+# Steps to use the package
 
 Step 1: Download the developed RF models from the driver links, then extract the file in one folder.
 
