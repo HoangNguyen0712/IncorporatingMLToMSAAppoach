@@ -18,7 +18,7 @@ Python 3.8 with Numpy version '1.24.3', and pickle.
 
 # Steps to use the package
 
-Step 1: Download the developed RF models from the provided link (https://drive.google.com/drive/folders/1eTDLRCWzi_89QAJVV5M71K6k_TIzGZcD?usp=drive_link), then extract all developed RF models (BestModel_RF_IP1.sav and BestModel_RF_IP2.sav) into one folder.
+Step 1: Download the developed RF models from the provided link (https://drive.google.com/drive/folders/1eTDLRCWzi_89QAJVV5M71K6k_TIzGZcD?usp=drive_link), then extract all developed RF models (i.e., BestModel_RF_IP1.sav and BestModel_RF_IP2.sav) into one folder.
 
 Step 2: Prepare the input sets for ML models (i.e., DataForML_24S_InputSet1.txt for input set 1 (13 input variables) and DataForML_24S_InputSet2.txt for input set 2 (14 input variables) by default).
 
