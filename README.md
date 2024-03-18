@@ -6,15 +6,15 @@ This code package is develeloped for constructing the seismic fragility analysis
 
 Developed by Hoang D. Nguyen (nguyenhoangkt712@unist.ac.kr), Chanyoung Kim, Young-Joo Lee, and Myoungsu Shin. 
 
-Ulsan National Institute of Science and Technology (UNIST), South Korea
+Ulsan National Institute of Science and Technology (UNIST), South Korea.
 
 # Reference
 
-Incopration of machine learning  into multilple stripe seismic fragility analysis of reinforced concrete wall structures (In preparation)
+Incopration of machine learning  into multilple stripe seismic fragility analysis of reinforced concrete wall structures (In preparation).
 
 # Required software and libraries
 
-Python 3.8 with Numpy version '1.24.3', and pickle
+Python 3.8 with Numpy version '1.24.3', and pickle.
 
 # Steps to use the package
 
