@@ -4,7 +4,7 @@ This code package is develeloped for constructing the seismic fragility analysis
 
 # Developers
 
-Developed by Hoang D. Nguyen (nguyenhoangkt712@unist.ac.kr), Chanyoung Kim, Young-Joo Lee, and Myoungsu Shin 
+Developed by Hoang D. Nguyen (nguyenhoangkt712@unist.ac.kr), Chanyoung Kim, Young-Joo Lee, and Myoungsu Shin. 
 UNIST, South Korea
 
 # Reference
