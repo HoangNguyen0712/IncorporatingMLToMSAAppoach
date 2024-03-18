@@ -14,7 +14,7 @@ Incopration of machine learning  into multilple stripe seismic fragility analysi
 
 # Required software and libraries
 
-Python 3.8 with Numpy version '1.24.3', and pickle.
+Python 3.8 with Numpy version '1.24.3', and pickle '4.0'.
 
 # Steps to use the package
 
