@@ -10,7 +10,7 @@ Ulsan National Institute of Science and Technology (UNIST), South Korea
 
 # Reference
 
-Incopration of machine learning  into multilple stripe seismic fragility analysis of reinforced concrete wall structures (Preparaton)
+Incopration of machine learning  into multilple stripe seismic fragility analysis of reinforced concrete wall structures (In preparation)
 
 # Required software and libraries
 
